@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "k8s-debugging-plugin",
-      "source": ".",
+      "source": "./",
       "description": "Kubernetes debugging and troubleshooting best practices using MCP kubernetes tools"
     }
   ]
