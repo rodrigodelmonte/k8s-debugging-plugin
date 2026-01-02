@@ -1,0 +1,16 @@
+{
+  "name": "k8s-debugging-plugin",
+  "version": "1.0.0",
+  "description": "Kubernetes debugging and troubleshooting best practices using MCP kubernetes tools. Includes systematic workflows for pod failures, service issues, deployment problems, and resource debugging.",
+  "author": "rodrigodelmonte",
+  "repository": "https://github.com/rodrigodelmonte/k8s-debugging-plugin",
+  "license": "MIT",
+  "keywords": [
+    "kubernetes",
+    "k8s",
+    "debugging",
+    "troubleshooting",
+    "devops",
+    "mcp"
+  ]
+}

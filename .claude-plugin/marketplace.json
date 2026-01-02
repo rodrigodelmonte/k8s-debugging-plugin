@@ -1,0 +1,14 @@
+{
+  "name": "k8s-debugging-marketplace",
+  "owner": {
+    "name": "rodrigodelmonte",
+    "url": "https://github.com/rodrigodelmonte"
+  },
+  "plugins": [
+    {
+      "name": "k8s-debugging-plugin",
+      "source": ".",
+      "description": "Kubernetes debugging and troubleshooting best practices using MCP kubernetes tools"
+    }
+  ]
+}
